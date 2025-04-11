@@ -121,8 +121,5 @@ Desde joven mostró interés por la música, escribiendo canciones y cantando en
 Lana Del Rey ha sido reconocida como una de las mejores compositoras estadounidenses del siglo XXI y ha influido profundamente en la industria musical</i>.</p>
             <img src="https://th.bing.com/th/id/R.1fb38b23fc649aebf9284ef63834c356?rik=iAtPAfgDYscOkQ&riu=http%3a%2f%2fs9.favim.com%2forig%2f130902%2fgif-lana-del-rey-Favim.com-891413.gif&ehk=K6eVbfCdIBV8lHT7pxtzwDsmahdzTtXiUdHz39o7mBw%3d&risl=&pid=ImgRaw&r=0" alt="Lana Del Rey GIF">
         </div>
-          <body background="C:\Users\SCPC1011\Downloads\WhatsApp Image 2025-04-10 at 09.57.31.jpeg")
-           <p><i><span style="color: black;">Mi nombre es Camila Rebeca Mercado Duran</span></i></p>
-    </div>
 </body>
 </html>
